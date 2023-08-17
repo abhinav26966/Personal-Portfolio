@@ -134,12 +134,12 @@ section .title::after {
 .navbar .logo a {
   color: #fff;
   font-size: 35px;
-  font-weight: 600;
+  font-weight: 800;
 }
 
 /*  Nav Logo Span Linear-Gradient  */
 .navbar .logo a span {
-  background: linear-gradient(135deg, #041d3d, #fff, crimson);
+  background: linear-gradient(135deg, #4477CE, #8CABFF, #DFCCFB);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   transition: all 0.3s ease;
